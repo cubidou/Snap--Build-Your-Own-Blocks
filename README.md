@@ -1,5 +1,10 @@
 
-Snap! Build Your Own Blocks
+snapuino
+
+Develop for Arduino using a visual language, based on Berkeley's
+Snap! Build Your Own Blocks.
+
+Info about Snap! Build Your Own Blocks:
 
 http://snap.berkeley.edu
 
